@@ -1,0 +1,2 @@
+# test_for_latest_branch
+最新ブランチかどうかのチェックの仕方を学ぶぞい
